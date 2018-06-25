@@ -1,1 +1,1 @@
-85% concluido, Erro no algoritmo dinamico (Optimal).
+85% concluido, Erro no algoritmo dinamico.
